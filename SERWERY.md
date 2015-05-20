@@ -24,6 +24,12 @@ serwera Polski Realny Serwer.
 Polski serwer RolePlay wykorzystujący znaczną część skryptów gamemodu
 XyzzyRP, który z czasem jest zastępowany autorskim kodem.
 
+## [ My Real Life - Role Play] (myreallife.xaa.pl)
+Polski serwer Role Play , wykorzystuje on caly gamemod
+Jest on teraw w trakcie naprawiania bldów.
+
+
+
 
 
 
