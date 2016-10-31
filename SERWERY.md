@@ -26,11 +26,9 @@ XyzzyRP, który z czasem jest zastępowany autorskim kodem.
 
 
 
-## [Venturas-Gaming](http://vgaming.esy.es/)
+## [Santos Project](http://https://www.facebook.com/santosprojectmta/?fref=ts/)
 
-Polski serwer RPG używający większości skryptów od XyzzyRP, 
-między innymi integracja bazy danych, wiele komend, system frakcji, system pojazdów oraz większość podstawowych skryptów.
-XyzzyRP wspomógł w tworzeniu serwera oraz w tworzeniu autorskich skryptów vGaming.
+Polski serwer RPG, z skryptami z MTA:SA Community oraz zasobami XyzzyRP
 
 
 
